@@ -1,0 +1,5 @@
+A python module to parse unix style config files.
+
+opt1=foo
+opt2=foo \
+     bar
